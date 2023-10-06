@@ -1,9 +1,9 @@
 import { useState } from "react";
 
 const messages = [
-  "I'm sorry for what happened last night.",
-  "I will try my best to make sure this doesn't affect us anymore.",
-  "I love you so much mama, you mean so much to me.",
+  "Learn React ⚛️",
+  "Apply for jobs 💼",
+  "Invest your new income 🤑",
 ];
 
 export default function App() {
